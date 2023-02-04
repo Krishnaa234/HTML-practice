@@ -1,0 +1,26 @@
+.mocha{
+	color:grey;
+	height:400px;
+	width:400px;
+}
+.cup{
+	background-color:yellow;
+	border:10px inset red;
+}
+.div-img{
+	height:80%;
+	width:100%;
+}
+.cappuccino{
+	color:black;
+	height:400px;
+	width:400px;
+}
+.capp{
+	background-color:pink;
+	border: 10px outset purple;
+}
+.cino-img{
+	height:80%;
+	width:100%;
+}
