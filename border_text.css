@@ -1,0 +1,61 @@
+.mocha{
+	color:brown;
+	background-color: #909090;
+	height:300px;
+	width:300px;
+}
+.cup{
+	border-right-style:outset;
+	border-right-color: blue;
+	border-right-width: 20px;
+
+	border-left-style: outset;
+	border-left-color: yellow;
+	border-left-width: 20px;
+
+	border-top-width:10px;
+	border-top-style:dotted;
+	border-top-color:red;
+
+	border-bottom-width:10px;
+	border-bottom-style:dotted;
+	border-bottom-color:green;
+
+	font-size:large;
+	font-family: Georgia, bold;
+
+}
+.div-img{
+	height:65%;
+	width:90%;
+}
+.cappuccino{
+	background-color: pink;
+	height:300px;
+	width:300px;
+}
+.capp{
+	border-top-style: dashed;
+	border-top-color: blue;
+	border-top-width: 20px;
+
+	border-right-style: solid;
+	border-right-color: green;
+	border-right-width: 20px;
+
+	border-bottom-style: dashed;
+	border-bottom-color: yellow;
+	border-bottom-width: 20px;
+
+	border-left-style: groove;
+	border-left-color: red;
+	border-left-width: 20px;
+
+	font-size: 16px;
+	font-style: italic;
+	font-family: Georgia, italic;
+}
+.cino-img{
+	height:65%;
+	width:90%;
+}
